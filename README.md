@@ -9,7 +9,7 @@
 #
 
 <p align="center">Graduanda em Estatística na Universidade Federal do Ceará, com estudos focados em análise de dados. Atualmente tenho conhecimentos básicos em Python e suas principais biblioteca(pandas, numpy e seaborn).
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.</p>
   
 #
 
